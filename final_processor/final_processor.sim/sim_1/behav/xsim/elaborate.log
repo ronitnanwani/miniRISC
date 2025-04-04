@@ -1,0 +1,30 @@
+Vivado Simulator 2020.1.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto b6d1dffece1e49afa92d0d9954228c3d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot testbench_behav xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/Student/final_processor/final_processor.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/Student/final_processor/final_processor.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.program_counter
+Compiling module xil_defaultlib.instruction_mem
+Compiling module xil_defaultlib.instruction_decode
+Compiling module xil_defaultlib.stack
+Compiling module xil_defaultlib.controller
+Compiling module xil_defaultlib.data_mem
+Compiling module xil_defaultlib.mux21_32bi
+Compiling module xil_defaultlib.mux21_5bit
+Compiling module xil_defaultlib.registerfile
+Compiling module xil_defaultlib.mux21_32bit
+Compiling module xil_defaultlib.ADDER
+Compiling module xil_defaultlib.SUB
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.branch_logic
+Compiling module xil_defaultlib.toplevel
+Compiling module xil_defaultlib.testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench_behav

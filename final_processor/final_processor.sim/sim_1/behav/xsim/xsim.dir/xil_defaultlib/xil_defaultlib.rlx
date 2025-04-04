@@ -1,0 +1,18 @@
+0.7
+2020.1.1
+Aug  5 2020
+23:19:43
+C:/Users/Student/final_processor/final_processor.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sim_1/imports/Submission_4/testbench.v,1699868990,verilog,,,,testbench,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/ALU.v,1699868990,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/branch_logic.v,,ADDER;ALU;SUB,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/branch_logic.v,1699868990,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/control_unit.v,,branch_logic,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/control_unit.v,1699868989,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/data_memory.v,,controller,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/data_memory.v,1699868989,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/instruction_decode.v,,data_mem,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/instruction_decode.v,1699868989,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/instruction_mem.v,,instruction_decode,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/instruction_mem.v,1699870972,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/mux21_32bit.v,,instruction_mem,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/mux21_32bit.v,1699868989,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/mux21_5bit.v,,mux21_32bi;mux21_32bit,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/mux21_5bit.v,1699868989,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/program_counter.v,,mux21_5bit,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/program_counter.v,1699868989,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/registerfile.v,,program_counter,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/registerfile.v,1699868990,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/stack.v,,registerfile,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/stack.v,1699868989,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/toplevel.v,,stack,,,,,,,,
+C:/Users/Student/final_processor/final_processor.srcs/sources_1/imports/Submission_4/toplevel.v,1699868989,verilog,,C:/Users/Student/final_processor/final_processor.srcs/sim_1/imports/Submission_4/testbench.v,,toplevel,,,,,,,,
